@@ -1,6 +1,5 @@
-- 👋 Hola soy @geronimoMorenoMendilaharzu estudiante de programacion en la UTN-FRT
-- 👀 Estoy interesado en el desarrollo de software y desarrollo de videojuegos
-- 🌱 Actualmente estoy estudiando la tecnicatura universitaria en programacion en http://www.frt.utn.edu.ar/
+- 👋 Hola soy @geronimoMorenoMendilaharzu estudiante de programacion en UTN-FRT
+- 👀 Estoy interesado en el desarrollo de software
 - 📫 Contacto: geromorenomendy@gmail.com
 
 <!---
