@@ -1,5 +1,5 @@
-- 👋 Hola soy @geronimoMorenoMendilaharzu estudiante de programacion en UTN-FRT
-- 👀 Estoy interesado en el desarrollo de software
+- 👋 Hola soy @geronimoMorenoMendilaharzu
+- 📚 Soy estudiante de Programacion en la Universidad Tecnologica Nacional 
 - 📫 Contacto: geromorenomendy@gmail.com
 
 <!---
