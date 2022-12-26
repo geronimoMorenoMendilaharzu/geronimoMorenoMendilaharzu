@@ -1,4 +1,4 @@
-- 👋 Hola soy @geronimoMorenoMendilaharzu
+- 👋 Hola soy  Geronimo Moreno Mendilaharzu
 - 📚 Soy estudiante de Programacion en la Universidad Tecnologica Nacional 
 - 📫 Contacto: geromorenomendy@gmail.com
 
